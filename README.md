@@ -9,7 +9,7 @@ A simple shell script to collect DNS informations of a domain created as a part 
   
 ## Running
    ```sh
-   $ chmod 754 dnsrecon.sh
+   $ chmod 755 dnsrecon.sh
    $ ./dnsrecon.sh
    ```
 
